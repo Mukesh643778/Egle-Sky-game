@@ -64,7 +64,7 @@
   </header>
   <nav>
     <a href="#about">About</a>
-    <a href="#screenshots">Screenshots</a>
+    <a href="file_00000000f9cc6230ad61956534864250">Screenshots</a>
     <a href="#download">Download</a>
     <a href="#contact">Contact</a>
   </nav>
