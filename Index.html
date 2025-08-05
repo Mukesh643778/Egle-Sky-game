@@ -3,64 +3,67 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Egle Sky – The Last Hope of Earth</title>
+  <meta name="description" content="Egle Sky – Futuristic Hindi Sci-Fi Action Game"/>
+  <title>Egle Sky – Official Game Website</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
 
-  <header class="hero">
-    <!-- ✅ Aapka logo yahaan set hai -->
-    <img src="logo.png" alt="Egle Sky Logo" class="logo" />
-    <h1>Egle Sky</h1>
-    <p class="tagline">The Last Hope of Earth</p>
-    <div class="cta-buttons">
-      <a href="#trailer" class="btn">Watch Trailer</a>
-      <a href="#screenshots" class="btn">Screenshots</a>
-      <a href="#download" class="btn">Download</a>
-      <a href="#demo" class="btn">Play Demo</a>
-    </div>
+  <header>
+    <img src="logo.png" alt="Egle Sky Logo" class="logo"/>
+    <nav>
+      <ul>
+        <li><a href="#trailer">Trailer</a></li>
+        <li><a href="#screenshots">Screenshots</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#download">Download</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
   </header>
 
-  <section class="about">
-    <h2>About the Game</h2>
-    <p>
-      <strong>Egle Sky</strong> ek sci-fi action game hai jisme aap alien invaders se Earth ko bachate ho. 
-      Dialogues Hindi mein hain, interface English mein. Game thrilling hai, aur cinematic experience ke saath full voice-over bhi include hai.
-    </p>
+  <section id="hero">
+    <h1>Welcome to Egle Sky</h1>
+    <p>The ultimate sci-fi eagle action game in Hindi!</p>
+    <a href="#download" class="hero-btn">Download Now</a>
   </section>
 
-  <section class="dialogues">
-    <h2>🎙 Game Dialogues (Hindi)</h2>
-    <ul>
-      <li>🔊 "Jab aasman se maut baras rahi thi, tab maine udaan bhari."</li>
-      <li>🔊 "Main khud ek mission hoon."</li>
-      <li>🔊 "Jise duniya ne bhool diya, woh duniya ko bachane laut aaya hai."</li>
-    </ul>
-  </section>
-
-  <section class="trailer" id="trailer">
+  <section id="trailer">
     <h2>🎬 Game Trailer</h2>
-    <video width="100%" controls>
+    <video controls>
       <source src="trailer.mp4" type="video/mp4" />
-      Trailer yahan load hoga.
+      Your browser does not support video playback.
     </video>
   </section>
 
-  <section class="screenshots" id="screenshots">
-    <h2>📸 Game Screenshots</h2>
-    <img src="screenshot1.png" alt="Screenshot 1" />
-    <img src="screenshot2.png" alt="Screenshot 2" />
-    <img src="screenshot3.png" alt="Screenshot 3" />
+  <section id="screenshots">
+    <h2>🖼️ Game Screenshots</h2>
+    <div class="gallery">
+      <img src="screenshot1.jpg" alt="Screenshot 1" />
+    </div>
   </section>
 
-  <section class="demo" id="demo">
-    <h2>🎮 Play Demo</h2>
-    <p><a href="demo.html" class="btn">Launch Demo</a></p>
+  <section id="about">
+    <h2>📄 About the Game</h2>
+    <p>
+      Egle Sky is a high-octane Hindi sci-fi game where you fly as an eagle warrior 
+      and battle alien invaders. Featuring thrilling action, immersive storyline, and stunning visuals.
+    </p>
   </section>
 
-  <section class="download" id="download">
-    <h2>📥 Download Game</h2>
-    <p><a href="EgleSky.apk" download>Download Android APK</a></p>
+  <section id="download">
+    <h2>📥 Download Egle Sky</h2>
+    <a href="#" class="download-btn">Download APK</a>
+  </section>
+
+  <section id="contact">
+    <h2>📧 Contact Us</h2>
+    <form action="mailto:mkdhandhal4@gmail.com" method="post" enctype="text/plain">
+      <input type="text" name="name" placeholder="Your Name" required />
+      <input type="email" name="email" placeholder="Your Email" required />
+      <textarea name="message" rows="4" placeholder="Your Message" required></textarea>
+      <input type="submit" value="Send Message" />
+    </form>
   </section>
 
   <footer>
@@ -68,4 +71,4 @@
   </footer>
 
 </body>
-  </html>
+</html>
