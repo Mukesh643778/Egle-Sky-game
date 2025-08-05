@@ -5,7 +5,6 @@ Welcome to the official repository of **Egle Sky**, a sci-fi action game where y
 🌐 Live Website: [Visit Here](https://mukesh643778.github.io/Egle-Sky-game/)
 
 ---
-
 ## 📦 Features
 
 - 🎮 **Sci-fi Storyline** – Hindi dialogues, English UI
@@ -17,10 +16,8 @@ Welcome to the official repository of **Egle Sky**, a sci-fi action game where y
 - 🎯 Mobile-friendly & Fully responsive design
 
 ---
-
 ## 📂 Folder Structure
 ---
-
 ## 📥 How to Download APK
 
 You can download the game directly from the site:
@@ -28,5 +25,4 @@ You can download the game directly from the site:
 👉 [Download Egle Sky APK](https://mukesh643778.github.io/Egle-Sky-game/EgleSky.apk)
 
 > Note: Make sure to allow "Install from unknown sources" in your Android settings.
-
 ---
