@@ -19,3 +19,14 @@ Welcome to the official repository of **Egle Sky**, a sci-fi action game where y
 ---
 
 ## 📂 Folder Structure
+---
+
+## 📥 How to Download APK
+
+You can download the game directly from the site:
+
+👉 [Download Egle Sky APK](https://mukesh643778.github.io/Egle-Sky-game/EgleSky.apk)
+
+> Note: Make sure to allow "Install from unknown sources" in your Android settings.
+
+---
