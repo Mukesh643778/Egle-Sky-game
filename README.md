@@ -12,7 +12,7 @@
     <p class="tagline">The Last Hope of Earth</p>
     <div class="buttons">
       <a href="#trailer" class="btn">🎬 Watch Trailer</a>
-      <a href="#screenshots" class="btn">🖼 View Screenshots</a>
+      <a href="#screenshots" class="btn">🖼 View file_00000000f9cc6230ad61956534864250</a>
       <a href="#download" class="btn">⬇️ Download Game</a>
       <a href="#demo" class="btn">🎮 Play Demo</a>
     </div>
