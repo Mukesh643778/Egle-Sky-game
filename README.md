@@ -1,71 +1,88 @@
+# 🦅 Egle Sky – Official Hindi Sci-Fi Action Game Website
 
-# 🦅 Egle Sky – आधिकारिक हिंदी Sci-Fi एक्शन गेम वेबसाइट
+Welcome to the official website of **Egle Sky**, a high-octane Hindi sci-fi action game where you become a futuristic eagle warrior and fight alien invaders in the skies of tomorrow.
 
-**Egle Sky** एक शानदार, भविष्यवादी और पूरी तरह हिंदी में बनी एक्शन गेम है। इसमें आप एक उड़ने वाले बाज योद्धा का रोल निभाते हैं और एलियनों से लड़ते हैं।
-
-![Logo](logo.png)
-
----
-
-## 🎮 गेम की मुख्य विशेषताएं
-
-- 🔊 पूरी तरह हिंदी डायलॉग्स
-- 🛸 उड़ने वाला बाज एक्शन + एलियन फाइट
-- 🎬 गेम ट्रेलर (जल्द आ रहा है)
-- 📱 एंड्रॉइड APK डाउनलोड
-- 🖼️ लाइव स्क्रीनशॉट्स
+![Egle Sky Gameplay](https://raw.githubusercontent.com/mukesh643778/Egle-Sky-game/main/screenshot1.jpg)
 
 ---
 
-## 📷 स्क्रीनशॉट्स
+## 🎮 Game Features
 
-![Screenshot 1](screenshot1.jpg)
-
----
-
-## 🎥 गेम ट्रेलर
-
-> 🔧 Placeholder वीडियो अभी वेबसाइट पर लगा है  
-> असली ट्रेलर जल्द अपडेट किया जाएगा
+- 🎙️ Cinematic dialogues in pure Hindi
+- 🦅 Futuristic eagle flying action
+- 🛸 Epic battles with alien forces
+- 🎥 In-game trailer integration
+- 📲 Android-compatible APK
+- 📸 HD screenshots from gameplay
 
 ---
 
-## 📥 डाउनलोड
+## 📷 Screenshots
 
-डाउनलोड के लिए वेबसाइट पर “Download APK” बटन दबाएं:  
-🔗 [डाउनलोड करें](#)
-
----
-
-## 🌐 वेबसाइट लिंक
-
-👉 [https://mukesh643778.github.io/Egle-Sky-game/](https://mukesh643778.github.io/Egle-Sky-game/)
+![Screenshot](screenshot1.jpg)
 
 ---
 
-## 📧 संपर्क करें
+## 🎬 Game Trailer
 
-कोई सुझाव या परेशानी हो तो हमें मेल करें:  
-📩 [mkdhandhal4@gmail.com](mailto:mkdhandhal4@gmail.com)
+> *Coming soon!*  
+> A placeholder video is currently embedded on the site. The official trailer will be uploaded shortly.
 
 ---
 
-## 🛠 टेक्नोलॉजी
+## 📥 Download APK
+
+Click the button on the website to download the latest version of the game:  
+➡️ [Download Now](https://mukesh643778.github.io/Egle-Sky-game/#download)
+
+> *(APK file will be updated once the final build is ready.)*
+
+---
+
+## 🌐 Live Website
+
+Official Website:  
+🔗 **[https://mukesh643778.github.io/Egle-Sky-game/](https://mukesh643778.github.io/Egle-Sky-game/)**
+
+---
+
+## 📱 Follow Us
+
+Stay updated on social platforms:
+
+- 🔵 [Facebook](https://facebook.com/eglesky)
+- 🟣 [Instagram](https://instagram.com/eglesky)
+- 🔴 [YouTube](https://youtube.com/@eglesky)
+- 🐦 [Twitter/X](https://twitter.com/eglesky)
+
+> *(Note: Replace the above links with your real social profiles when available.)*
+
+---
+
+## 🧑‍💻 Technologies Used
 
 - HTML5  
 - CSS3  
-- GitHub Pages (होस्टिंग के लिए)  
-- मोबाइल फ्रेंडली वेबसाइट डिज़ाइन
+- GitHub Pages  
+- Responsive Web Design
 
 ---
 
-## 🤝 योगदान
+## 🤝 Contributions
 
-कोई सुझाव है या कुछ बेहतर बना सकते हो? Fork करो, सुधार भेजो — हम खुले हैं!
+Feel free to fork this repo, improve the site, or submit issues. All help is appreciated!
 
 ---
 
-## 📌 लाइसेंस
+## 📧 Contact
 
-यह प्रोजेक्ट © 2025 **Mukesh Dhandhal** के नाम से सुरक्षित है।  
-सभी अधिकार सुरक्षित हैं।
+Have suggestions, feedback, or collaboration ideas?  
+📩 Email us at: [mkdhandhal4@gmail.com](mailto:mkdhandhal4@gmail.com)
+
+---
+
+## 📌 License
+
+© 2025 **Mukesh Dhandhal**. All rights reserved.
+
+---
