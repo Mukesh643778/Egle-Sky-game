@@ -6,48 +6,7 @@
   <title>Egle Sky – The Last Hope of Earth</title>
   <link rel="stylesheet" href="style.css" />
 </head>
-<body> {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-  background: #111;
-  color: #fff;
-}
-header.hero {
-  text-align: center;
-  padding: 2rem;
-  background: #222;
-}
-.logo {
-  width: 120px;
-  margin-bottom: 10px;
-}
-.tagline {
-  font-size: 1.2rem;
-  color: #ccc;
-}
-.cta-buttons a {
-  margin: 0.5rem;
-  padding: 0.6rem 1.2rem;
-  background: #444;
-  color: #fff;
-  text-decoration: none;
-  border-radius: 5px;
-}
-section {
-  padding: 1.5rem;
-}
-footer {
-  text-align: center;
-  padding: 1rem;
-  background: #000;
-  color: #888;
-}
-img {
-  max-width: 100%;
-  height: auto;
-  margin: 0.5rem 0;
-}
+<body>
 
   <header class="hero">
     <!-- ✅ Aapka logo yahaan set hai -->
