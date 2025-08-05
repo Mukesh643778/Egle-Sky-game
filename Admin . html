@@ -1,0 +1,42 @@
+
+
+## 🔐 Admin Panel
+
+The MCP (Main Control Panel) is accessible at:
+
+👉 `/admin.html`
+
+**Password:** `eglesky123`
+
+### Admin Panel Code:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>MCP - Egle Sky Admin Panel</title>
+  <link rel="stylesheet" href="style.css" />
+  <script>
+    var password = prompt("Enter MCP Password:");
+    if (password !== "eglesky123") {
+      alert("Access Denied");
+      window.location.href = "index.html";
+    }
+  </script>
+</head>
+<body>
+  <header><h1>🛠 Egle Sky MCP (Main Control Panel)</h1></header>
+  <main>
+    <h2>Manage Content</h2>
+    <ul>
+      <li><a href="index.html">View Main Website</a></li>
+      <li><a href="upload.html">Upload Trailer</a></li>
+      <li><a href="screenshots.html">Manage Screenshots</a></li>
+      <li><a href="downloads.html">Update Downloads</a></li>
+    </ul>
+  </main>
+  <footer><p>&copy; 2025 Egle Sky MCP Dashboard</p></footer>
+</body>
+</html>
