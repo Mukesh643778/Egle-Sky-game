@@ -8,7 +8,108 @@
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #0b0c10;
+  color: #ffffff;
+}
 
+header {
+  background: #1f2833;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  height: 60px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  padding: 0;
+  margin: 0;
+}
+
+nav a {
+  color: #66fcf1;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+#hero {
+  background: url('hero.jpg') no-repeat center center/cover;
+  padding: 100px 20px;
+  text-align: center;
+}
+
+.hero-btn {
+  background: #45a29e;
+  color: #0b0c10;
+  padding: 12px 24px;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+section {
+  padding: 40px 20px;
+  text-align: center;
+}
+
+video {
+  width: 90%;
+  max-width: 720px;
+  border: 4px solid #66fcf1;
+  border-radius: 10px;
+}
+
+.gallery img {
+  width: 30%;
+  margin: 10px;
+  border-radius: 10px;
+  border: 2px solid #45a29e;
+}
+
+.download-btn {
+  display: inline-block;
+  background: #66fcf1;
+  color: #0b0c10;
+  padding: 14px 30px;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+form input, form textarea {
+  width: 90%;
+  max-width: 400px;
+  padding: 12px;
+  margin: 10px auto;
+  display: block;
+  border: none;
+  border-radius: 5px;
+}
+
+form input[type="submit"] {
+  background: #1f2833;
+  color: #66fcf1;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+footer {
+  background: #1f2833;
+  color: #c5c6c7;
+  padding: 20px;
+  text-align: center;
+}
   <header>
     <img src="logo.png" alt="Egle Sky Logo" class="logo"/>
     <nav>
@@ -62,7 +163,7 @@
     <h2>📧 Contact Us</h2>
     <form action="mailto:mkdhandhal4@gmail.com" method="post" enctype="text/plain">
       <input type="text" name="name" placeholder="Your Name" required />
-      <input type="email" name="email" placeholder="Your Email" required />
+      <input type="email" name="email" placeholder="Your mkdhandhal4@gmail.com " required />
       <textarea name="message" rows="4" placeholder="Your Message" required></textarea>
       <input type="submit" value="Send Message" />
     </form>
