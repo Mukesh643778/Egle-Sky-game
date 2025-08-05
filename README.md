@@ -9,98 +9,8 @@
     body {
       margin: 0;
       font-family: 'Orbitron', sans-serif;
-      background: linear-gradient(to bottom, #000000, #1a1a1a);
-      color: #fff;
-    }
-    header {
-      background: #111;
-      padding: 20px;
-      text-align: center;
-    }
-    header h1 {
-      font-size: 3em;
-      color: #e60000;
-    }
-    nav {
-      text-align: center;
-      margin-bottom: 30px;
-    }
-    nav a {
-      margin: 0 15px;
-      color: #fff;
-      text-decoration: none;
-      font-weight: bold;
-    }
-    section {
-      max-width: 900px;
-      margin: auto;
-      padding: 20px;
-    }
-    .trailer {
-      text-align: center;
-      margin-top: 30px;
-    }
-    .download-btn {
-      background: #e60000;
-      padding: 15px 30px;
-      color: white;
-      text-decoration: none;
-      font-size: 1.2em;
-      border-radius: 8px;
-    }
-    footer {
-      background: #111;
-      text-align: center;
-      padding: 20px;
-      font-size: 0.9em;
-      color: #999;
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <h1>EGLE SKY</h1>
-    <p>Akela nahi hai... lekin akela hi kaafi hai.</p>
-  </header>
-  <nav>
-    <a href="#about">About</a>
-    <a href="#screenshots">Screenshots</a>
-    <a href="#download">Download</a>
-    <a href="#contact">Contact</a>
-  </nav>
 
-  <section id="about">
-    <h2>About the Game</h2>
-    <p>
-      "Egle Sky" ek 3D open-world superhero action game hai jahan aliens ne duniya pe kabza kar liya hai.
-      Tum ho Egle Sky – aakhri umeed, jo in aliens ko rok sakta hai.
-    </p>
-  </section>
-
-  <section id="screenshots">
-    <h2>Screenshots</h2>
-    <p>(Coming soon...)</p>
-  </section>
-
-  <section id="download">
-    <h2>Download</h2>
-    <p>Game ka APK yahan milega jab ready hoga.</p>
-    <div class="trailer">
-      <a class="download-btn" href="#">Coming Soon</a>
-    </div>
-  </section>
-
-  <section id="contact">
-    <h2>Contact / Feedback</h2>
-    <p>Game se related feedback ya suggestions? Hume contact karo:</p>
-    <ul>
-      <li>Email: mkdhandhal4@gmail.com</li>
-      <li>Instagram: @eglesky_game</li>
-    </ul>
-  </section>
-
-  <footer>
-      <!DOCTYPE html><html lang="en">
+<!DOCTYPE html><html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -132,7 +42,3 @@
     </ul>
   </section>  <section class="trailer" id="trailer">
     <h2>Game Trailer</h2>
-    &copy; 2025 Egle Sky Game. All rights reserved.
-  </footer>
-</body>
-</html>
