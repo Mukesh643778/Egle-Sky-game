@@ -1,5 +1,3 @@
-# Egle-Sky-game
-Egle Sky - Official Game Website
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -96,7 +94,7 @@ Egle Sky - Official Game Website
     <h2>Contact / Feedback</h2>
     <p>Game se related feedback ya suggestions? Hume contact karo:</p>
     <ul>
-      <li>Email: mkdhandhala4@gmail.com</li>
+      <li>Email: mkdhandhal4@gmail.com</li>
       <li>Instagram: @eglesky_game</li>
     </ul>
   </section>
