@@ -1,88 +1,52 @@
-# 🦅 Egle Sky – Official Hindi Sci-Fi Action Game Website
-
-Welcome to the official website of **Egle Sky**, a high-octane Hindi sci-fi action game where you become a futuristic eagle warrior and fight alien invaders in the skies of tomorrow.
-
-![Egle Sky Gameplay](https://raw.githubusercontent.com/mukesh643778/Egle-Sky-game/main/screenshot1.jpg)
-
----
-
-## 🎮 Game Features
-
-- 🎙️ Cinematic dialogues in pure Hindi
-- 🦅 Futuristic eagle flying action
-- 🛸 Epic battles with alien forces
-- 🎥 In-game trailer integration
-- 📲 Android-compatible APK
-- 📸 HD screenshots from gameplay
-
----
-
-## 📷 Screenshots
-
-![Screenshot](screenshot1.jpg)
-
----
-
-## 🎬 Game Trailer
-
-> *Coming soon!*  
-> A placeholder video is currently embedded on the site. The official trailer will be uploaded shortly.
-
----
-
-## 📥 Download APK
-
-Click the button on the website to download the latest version of the game:  
-➡️ [Download Now](https://mukesh643778.github.io/Egle-Sky-game/#download)
-
-> *(APK file will be updated once the final build is ready.)*
-
----
-
-## 🌐 Live Website
-
-Official Website:  
-🔗 **[https://mukesh643778.github.io/Egle-Sky-game/](https://mukesh643778.github.io/Egle-Sky-game/)**
-
----
-
-## 📱 Follow Us
-
-Stay updated on social platforms:
-
-- 🔵 [Facebook](https://facebook.com/eglesky)
-- 🟣 [Instagram](https://instagram.com/eglesky)
-- 🔴 [YouTube](https://youtube.com/@eglesky)
-- 🐦 [Twitter/X](https://twitter.com/eglesky)
-
-> *(Note: Replace the above links with your real social profiles when available.)*
-
----
-
-## 🧑‍💻 Technologies Used
-
-- HTML5  
-- CSS3  
-- GitHub Pages  
-- Responsive Web Design
-
----
-
-## 🤝 Contributions
-
-Feel free to fork this repo, improve the site, or submit issues. All help is appreciated!
-
----
-
-## 📧 Contact
-
-Have suggestions, feedback, or collaboration ideas?  
-📩 Email us at: [mkdhandhal4@gmail.com](mailto:mkdhandhal4@gmail.com)
-
----
-
-## 📌 License
-
-© 2025 **Mukesh Dhandhal**. All rights reserved.
-
----
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Egle Sky – Official Hindi Sci-Fi Game</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <img src="logo.png" alt="Egle Sky Logo" class="logo" />
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#trailer">Trailer</a></li>
+        <li><a href="#screenshots">Screenshots</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#download">Download</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>  <section id="home" class="hero">
+    <div class="hero-text">
+      <h1>Egle Sky</h1>
+      <p>The ultimate Hindi sci-fi action experience!</p>
+      <a href="#download" class="btn">Download Now</a>
+    </div>
+  </section>  <section id="trailer">
+    <h2>🎬 Game Trailer</h2>
+    <video controls>
+      <source src="trailer.mp4" type="video/mp4" />
+      Your browser does not support the video tag.
+    </video>
+  </section>  <section id="screenshots">
+    <h2>🖼️ Game Screenshots</h2>
+    <div class="gallery">
+      <img src="screenshot1.jpg" alt="Gameplay Screenshot" />
+    </div>
+  </section>  <section id="about">
+    <h2>📜 About the Game</h2>
+    <p>
+      Egle Sky is a Hindi cinematic sci-fi action game where you play as an eagle warrior fighting alien invaders in futuristic worlds.
+    </p>
+  </section>  <section id="download">
+    <h2>📥 Download</h2>
+    <a href="#" class="btn">Download APK</a>
+  </section>  <section id="contact">
+    <h2>📧 Contact</h2>
+    <form action="mailto:mkdhandhal4@gmail.com" method="post" enctype="text/plain">
+      <input type="text" name="name" placeholder="Your Name" required />
+      <input type="email" name="email" placeholder="Your Email" required />
+      <textarea name="message" rows="4" placeholder="Your Message" required></textarea>
+      <button type="submit">Send</button>
